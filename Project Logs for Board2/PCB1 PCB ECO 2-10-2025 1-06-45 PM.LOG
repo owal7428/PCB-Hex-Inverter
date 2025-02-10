@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetC1_2 Pin=C1-2
+Removed Pin From Net: NetName=NetC1_2 Pin=RA-2
+Removed Pin From Net: NetName=NetC1_2 Pin=U1-4
+Removed Pin From Net: NetName=NetC1_2 Pin=U1-8
+Added Pin To Net: NetName=+5 Pin=C1-2
+Added Pin To Net: NetName=+5 Pin=RA-2
+Added Pin To Net: NetName=+5 Pin=U1-4
+Added Pin To Net: NetName=+5 Pin=U1-8
+Change Net Name : Old Net Name=NetC1_2 New Net Name=NetSWBD_1
+Added Rule: Name=Schematic Width Constraint_5
