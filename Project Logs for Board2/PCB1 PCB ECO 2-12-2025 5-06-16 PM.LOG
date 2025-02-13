@@ -1,0 +1,9 @@
+Change Component DesignItemId : Designator=RA Old DesignItemId=R_300Ohm_1206 New DesignItemId=R_1K_1206
+Change Component Comment : Designator=RA Old Comment=300 Ohm New Comment=1k
+Change Component Description : Designator=RA Old Description=CHIP RESISTOR - SURFACE MOUNT 300OHMS ±1% 1/4W 1206 ROHS New Description=CHIP RESISTOR - SURFACE MOUNT 1KOHMS ±1% 1/4W 1206 ROHS
+Change component parameters: Designator = "RA" ("RA"); Footprint = "1206_Passive_Resitor"; UniqueID = "\JGZEINBH" ("\JGZEINBH")
+Change component parameters (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/product-detail/en/RNCP1206FTD1K00/RNCP1206FTD1K00CT-ND/2240675/?itemSeq=304982373"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part#"; Value = "C4410"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR Part #"; Value = "RNCP1206FTD1K00CT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1K Ohm"; VariantName = "[No Variations]"
